@@ -21,7 +21,7 @@ body {
   0%
   { background-color: pink; }
   50%
-  { background-color: red; }
+  { background-color: blue; }
   100%
-  { background-color: black; }
+  { background-color: pink; }
 }
